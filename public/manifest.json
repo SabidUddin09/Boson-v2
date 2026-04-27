@@ -1,0 +1,17 @@
+{
+  "name": "Boson Task Management",
+  "short_name": "Boson",
+  "description": "High-velocity task management system for Sabid Uddin's team.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#06b6d4",
+  "theme_color": "#06b6d4",
+  "icons": [
+    {
+      "src": "https://cdn-icons-png.flaticon.com/512/3652/3652191.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
